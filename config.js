@@ -6,34 +6,35 @@ import fs from 'fs'
 
 //OwnerShip
 global.owner = [
-  [process.env.OWNER_NUMBER || '916296247464', process.env.OWNER_NAME || 'Developer ✧Ａ𝖗ƙ𖤬_✨ 🤖', true],
+  [process.env.OWNER_NUMBER || '917439327360', process.env.OWNER_NAME || 'Developer 𖥻 𝚩𝚵̸̷𝚫𝐑 ꪜ', true],
 /*  ['919637987574', 'Shizo Techie ❤️✨', true] */
 ]
 global.mods = []
 global.prems = []
 
-global.author = process.env.OWNER_NAME || '✧Ａ𝖗ƙ𖤬_✨'
+global.author = process.env.OWNER_NAME || '𖥻 𝚩𝚵̸̷𝚫𝐑 ꪜ'
 global.botname = process.env.BOT_NAME || 'KITAGAWA-MD'
 global.oname = author
 global.bname = botname
 
 //Extra Shortcuts
-global.smlink = process.env.SOCIAL_MEDIA_LINK || 'https://instagram.com/Bankai77'
-global.gclink = process.env.GROUP_LINK || 'https://chat.whatsapp.com/LHfJmKoYVJp1gDX58P55CY'
+global.smlink = process.env.SOCIAL_MEDIA_LINK || 'https://instagram.com/_.bearxd'
+global.gclink = process.env.GROUP_LINK || 'https://chat.whatsapp.com/EZjCgLTJfRd8LHOyVC163u
+  '
  
 //Apikeys
 global.shizokeys = 'shizo'
 
 //Sticker Watermarks
-global.packname = process.env.BOT_NAME || '𝐎𝐭𝐚𝐤𝐮 𝐀𝐥𝐥𝐢𝐚𝐧𝐜𝐞 🔥😈🔥'
-global.stkpack = process.env.BOT_NAME || '𝕄𝕒𝕣𝕚𝕟 𝕂𝕚𝕥𝕒𝕘𝕒𝕨𝕒 𝕄𝔻 ✨'
-global.stkowner = process.env.OWNER_NAME || '© ✧Ａ𝖗ƙ𖤬_✨'
+global.packname = process.env.BOT_NAME || 'Made by'
+global.stkpack = process.env.BOT_NAME || '𖥻 𝚩𝚵̸̷𝚫𝐑 ꪜ'
+global.stkowner = process.env.OWNER_NAME || '© 𖥻 𝚩𝚵̸̷𝚫𝐑 ꪜ'
 
 //Watermark
-global.maker = process.env.MAKER || 'Made with ❤️ by ARKA'
+global.maker = process.env.MAKER || 'Made with ❤️ by Bear'
 
 //global emojis
-global.wait = '*⌛ _Charging..._*\n*▰▰▰▱▱▱▱▱*'
+global.wait = '*⌛ _Wait senpai 💞💌..._*\n*▰▰▰▱▱▱▱▱*'
 global.rwait = '⌛'
 global.dmoji = '🤭'
 global.done = '✅'
@@ -56,8 +57,8 @@ global.replitHost = 0
 
 //global.pairingNumber = "" //put your bot number here
 
-global.mods = ['917864093289','917864093289']
-global.prems = ['917864093289','917864093289']
+global.mods = ['917439317360','917864093289']
+global.prems = ['917439317360','917864093289']
 global.allowed = ['917864093289','917864093289']
 global.keysZens = ['c2459db922', '37CC845916', '6fb0eff124']
 global.keysxxx = keysZens[Math.floor(keysZens.length * Math.random())]
